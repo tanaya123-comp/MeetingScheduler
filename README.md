@@ -129,3 +129,33 @@ javac src/**/*.java
 # Run interactively
 java Main
 
+
+⚡ How to Run
+# Clone the repository
+git clone https://github.com/<your-username>/MeetingScheduler.git
+cd MeetingScheduler
+
+# Compile the code
+javac src/**/*.java
+
+# Run interactively
+java Main
+
+🧩 Future Improvements
+
+🏢 Add capacity-based scheduling.
+
+🧠 Implement fairness policy or priority queue for incoming requests.
+
+☁️ Integrate with Spring Boot + REST endpoints for distributed systems.
+
+💾 Persist data using MySQL, DynamoDB, or Redis.
+
+📊 Integrate SLF4J + Logback for structured application logging.
+
+🧪 Add unit & concurrency tests to ensure correctness under load.
+
+👩‍💻 Author
+
+Tanaya Wankar
+
